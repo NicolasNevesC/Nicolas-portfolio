@@ -7,7 +7,7 @@ const Education = () => {
       period: "2025 - Presente",
       degree: "Análise e Desenvolvimento de Sistemas",
       institution: "UNIP - Universidade Paulista",
-      description: "Cursando 2º Semestre",
+      description: "Cursando 4º Semestre",
       status: "current",
     },
     {
