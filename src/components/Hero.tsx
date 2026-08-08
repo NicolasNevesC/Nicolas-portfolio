@@ -36,7 +36,7 @@ const Hero = () => {
             <p className="text-xl md:text-2xl text-muted-foreground whitespace-pre-line">
               '''Do not make any visual modifications. The phrases I write are commands to understand what I want, not to be written down. Understand their content well, then execute what is required.'''
                                             
-                                            I have approved the plan
+                                            melhore o site use cores como preto e branco
             </p>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               19 anos • São José dos Campos, SP
